@@ -31,5 +31,52 @@
 ![image](https://user-images.githubusercontent.com/7720471/209462617-95c14800-a207-435b-b7b1-25242a18c318.png)
 
 
+一下是前几年捣鼓的另外几个工具，
+
+![image](https://user-images.githubusercontent.com/7720471/209462990-0691a2f8-e322-48e4-827a-95c23bc4007f.png)
+
+![image](https://user-images.githubusercontent.com/7720471/209462995-62a536fe-bb30-4615-9589-788cee3dfbac.png)
+
+
+oracle 操作工具
+
+![image](https://user-images.githubusercontent.com/7720471/209463008-8f5ba331-5844-48ca-ba00-103620abd86c.png)
+
+爬虫
+![image](https://user-images.githubusercontent.com/7720471/209463015-501bc9b3-9790-400b-9817-b58451c61a89.png)
+
+象棋
+![image](https://user-images.githubusercontent.com/7720471/209463038-82ae0fc2-d1f1-42c9-b79a-5b71844ac7a5.png)
+
+思维导图
+![image](https://user-images.githubusercontent.com/7720471/209463061-1d8553f8-6706-4267-b7fd-ae8e34856579.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
