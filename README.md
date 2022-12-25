@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/7720471/209462617-95c14800-a207-435b-b7b1-25242a18c318.png)
 
 
-一下是前几年捣鼓的另外几个工具，
+下面放几个 前几年捣鼓的另外几个工具，
 
 ![image](https://user-images.githubusercontent.com/7720471/209462990-0691a2f8-e322-48e4-827a-95c23bc4007f.png)
 
